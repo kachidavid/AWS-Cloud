@@ -1,2 +1,1 @@
-# AWS-Cloud
-bootcamp
+# AWS-Cloud bootcamp
